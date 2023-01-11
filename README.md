@@ -1,4 +1,4 @@
-# Nour_Hasan01
 
+git clone https://github.com/Nour1-hasan/Nour_Hasan01.git
 cd Nour_Hasan01
-pythone2 test.py
+python FREE-MARUF.py
